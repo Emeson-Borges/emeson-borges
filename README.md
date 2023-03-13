@@ -1,6 +1,6 @@
 - 🤓 Emeson Borges
 - 💻 Apaixonado por Tecnologia
-- 💻 Foco em PHP e Segurança no Desenvolvimento de Sistemas
+- 💻 Foco em Python, SQL, Julia - Tecnologias para Big Data
 - 💻 Desenvolvedor de Sistemas em Delphi
 - 🎲 Administrador de Banco de Dados
 - 🤔 Uso lógica para resolver problemas
