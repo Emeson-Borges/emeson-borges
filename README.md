@@ -1,8 +1,9 @@
 - 🤓 Emeson Borges
 - 💻 Apaixonado por Tecnologia
-- 💻 Foco em Python, SQL, Julia - Tecnologias para Big Data
-- 💻 Desenvolvedor de Sistemas em Delphi
-- 🎲 Administrador de Banco de Dados
+- 💻 Foco em Python e Django
+- 💻 Linguagens: Delphi, Python, PHP
+- 💻 Frameworks: Delphi, Django, Laravel
+- 💻 Atualmente Desenvolvedor de Sistemas em Delphi
 - 🤔 Uso lógica para resolver problemas
 - 📱 Sempre conectado com as novas tecnologias
 - 🦝 Curioso e pronto para aprender
