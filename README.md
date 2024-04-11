@@ -30,6 +30,19 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   
   ##
+
+  ## Áreas de interesse:
+- Machine Learning e Inteligência Artificial
+- Visão Computacional
+- Processamento de Linguagem Natural
+- Reconhecimento de Padrões
+- Robótica Autônoma
+- Aprendizado por Reforço
+- Análise de Dados
+- Redes Neurais Artificiais
+- Deep Learning
+- Aprendizado Federado
+
  
 <div> 
   <a href="https://www.instagram.com/emesonboorges/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
