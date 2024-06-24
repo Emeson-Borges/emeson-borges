@@ -40,8 +40,9 @@
 - Aprendizado por Reforço
 - Análise de Dados
 - Redes Neurais Artificiais
-- Deep Learning
-- Aprendizado Federado
+- Desenvolvimento Web
+- Django e API Rest
+- Django Rest-framework (DRF)
 
  ##
 
