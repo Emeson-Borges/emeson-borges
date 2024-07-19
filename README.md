@@ -1,6 +1,7 @@
 - 🤓 Emeson Borges
 - 💻 Apaixonado por Tecnologia
-- 💻 Foco em Python e Django
+- 💻 Python e Django
+- 💻 Python para Análise de Dados
 - 🤔 Uso lógica para resolver problemas
 - 📱 Sempre conectado com as novas tecnologias
 - 🦝 Curioso e pronto para aprender
@@ -60,9 +61,7 @@
   ## Áreas de interesse:
 - Machine Learning e Inteligência Artificial
 - Visão Computacional
-- Processamento de Linguagem Natural
 - Reconhecimento de Padrões
-- Robótica Autônoma
 - Aprendizado por Reforço
 - Análise de Dados
 - Redes Neurais Artificiais
