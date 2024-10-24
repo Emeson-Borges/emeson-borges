@@ -61,10 +61,7 @@
   ## Áreas de interesse:
 - Machine Learning e Inteligência Artificial
 - Visão Computacional
-- Reconhecimento de Padrões
-- Aprendizado por Reforço
 - Análise de Dados
-- Redes Neurais Artificiais
 - Desenvolvimento Web
 - Django e API Rest
 - Django Rest-framework (DRF)
